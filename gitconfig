@@ -1,0 +1,2 @@
+git config --global user.name "Alex Lee"
+git config --global user.email "al965@bath.ac.uk"
